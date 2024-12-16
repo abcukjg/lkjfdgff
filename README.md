@@ -124,13 +124,6 @@ cp -rf ./themes/anzhiyu/_config.yml ./_config.anzhiyu.yml
 
 ![评论弹幕](https://upload-bbs.miyoushe.com/upload/2023/09/04/125766904/628aef1dbf52b61c0333682e8ee9954e_6905019516821534667.png)
 
-## 贡献者
-
-[![contributors](https://opencollective.com/hexo-theme-anzhiyu/contributors.svg?width=890&button=false)](https://github.com/anzhiyu-c/hexo-theme-anzhiyu/)
-
-主题设计：[@张洪 Heo](https://github.com/zhheo)
-
-文档编写：[@xiaoran](https://github.com/xiaoran)
 
 ## 仓库统计
 
